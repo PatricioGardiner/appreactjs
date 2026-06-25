@@ -1,0 +1,25 @@
+{
+  "name": "tienda-de-libros",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "bootstrap": "latest",
+    "firebase": "latest",
+    "react": "latest",
+    "react-bootstrap": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "react-icons": "latest",
+    "react-router-dom": "latest",
+    "styled-components": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
